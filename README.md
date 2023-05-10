@@ -1,3 +1,4 @@
-"# PC" 
-start la aplicatie cu 
+
+start la aplicatie cu
+
 python ./main.py
